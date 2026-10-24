@@ -27,6 +27,7 @@
 ### 📌 Projetos em destaque
 
 🔹 **App de Notas (CRUD em Python)** — aplicação de terminal para criar, listar, editar e excluir notas, com persistência em JSON, validação de entradas e tratamento de exceções.
+🔹  **VetSys — Sistema de Gestão para Clínicas Veterinárias** — gestão de tutores, animais e procedimentos em Python puro, com relacionamento por ID, exclusão em cascata e persistência em JSON.
 
 ---
 
