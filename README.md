@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./gifzinho.gif" alt="Pixel Art Header" width="100%">
+  <img src="./gif.gif" alt="Pixel Art Header" width="100%">
 </p>
 
 <p align="center">
