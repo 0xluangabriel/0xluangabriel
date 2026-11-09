@@ -1,37 +1,48 @@
-<h1 align="center">Olá, eu sou o Luan 👋</h1>
-
-<h3 align="center">Aprendendo a construir software e a entender como protegê-lo 🔐🐍</h3>
+<p align="center">
+  <img src="./gifzinho.gif" alt="Pixel Art Header" width="100%">
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luan-gabriel-silva" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:luan.pessoalx@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1E6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=0xluangabriel&style=for-the-badge&color=1E6FEB&label=Perfil+visto" alt="Perfil visto" />
+  <img align="left" src="https://komarev.com/ghpvc/?username=0xluangabriel&label=Perfil%20visto&color=1E6FEB&style=flat-square&abbreviated=true">
+  Estudante de ADS de Minas Gerais | Backend, automações com Python e cibersegurança 🔐🐍 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
 </p>
 
 ---
 
-### 🧑‍💻 Sobre mim
+### Sobre mim
+Graduando em **Análise e Desenvolvimento de Sistemas** (conclusão em dez/2026) e Técnico em TI pelo SENAC. Desenvolvo **APIs REST com Python e FastAPI**, crio **scripts e automações** para eliminar tarefas repetitivas já administrei um banco **PostgreSQL em produção com mais de 100 mil usuários**.
 
-- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** e Técnico em TI pelo SENAC.
-- 🔐 Apaixonado por **cibersegurança** que é o que me puxou pra área e o rumo que quero seguir.
-- 🐍 Explorando a programação com **Python**.
-- 🌱 Estudando por conta própria e construindo projetos pra aprender na prática.
-- 🤝 Em busca de uma **oportunidade de estágio** pra ganhar experiência e crescer na área.
-- 📫 Fale comigo: **luan.pessoalx@gmail.com**
+Busco uma **oportunidade de trainee ou desenvolvedor júnior** em desenvolvimento back-end ou automações.
+
+### Tech Stack
+
+| Categoria | Ferramentas e linguagens |
+| :--- | :--- |
+| **Linguagens** | Python, SQL, TypeScript, JavaScript, PHP, HTML, CSS |
+| **Backend** | FastAPI, SQLModel, Pydantic, APIs REST |
+| **Automação** | Scripts em Python, manipulação de arquivos e JSON, integração com APIs |
+| **Frontend** | Next.js, React |
+| **Bancos de dados** | PostgreSQL, MySQL, MariaDB, SQLite |
+| **Sistemas** | Linux, Windows, Windows Server |
+| **Ferramentas** | Git, GitHub, VS Code, uv |
+
+### O que eu faço
+* **APIs:** modelo entidades relacionais, implemento CRUD com validação via Pydantic, exclusão em cascata e paginação.
+* **Automações:** escrevo scripts em Python que automatizam tarefas, processam dados e integram serviços via API.
+* **Banco de dados:** escrevo consultas SQL, configuro permissões com Row Level Security e executo migrações e rotinas de backup e restauração.
+* **Qualidade:** valido entradas, trato exceções e documento o código para que outra pessoa consiga rodá-lo.
+
+### Foco atual
+* **Backend:** testes automatizados com pytest, autenticação JWT e Docker
+* **Automação:** scripts de rotina e integrações entre serviços com Python
+* **Segurança:** boas práticas de segurança em APIs (OWASP API Top 10)
 
 ---
-### 📌 Projetos em destaque
 
-🔹 **App de Notas (CRUD em Python)** — aplicação de terminal para criar, listar, editar e excluir notas, com persistência em JSON, validação de entradas e tratamento de exceções.
-
-🔹  **VetSys — Sistema de Gestão para Clínicas Veterinárias** — gestão de tutores, animais e procedimentos em Python puro, com relacionamento por ID, exclusão em cascata e persistência em JSON.
+### Contato
+* **LinkedIn:** [luan-gabriel-silva](https://www.linkedin.com/in/luan-gabriel-silva)
+* **E-mail:** luan.pessoalx@gmail.com
 
 ---
 
-<p align="center">
-  <i>"Entender como quebra é o primeiro passo pra saber proteger."</i>
-</p>
+> "Entender como quebra é o primeiro passo pra saber proteger."
