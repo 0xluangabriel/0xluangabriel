@@ -4,7 +4,7 @@
 
 <p align="center">
   <img align="left" src="https://komarev.com/ghpvc/?username=0xluangabriel&label=Perfil%20visto&color=1E6FEB&style=flat-square&abbreviated=true">
-  Estudante de ADS de Minas Gerais | Backend, automações com Python e cibersegurança 🔐🐍 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
+  Estudante de ADS de Minas Gerais | Backend, automações com Python e cibersegurança  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
 </p>
 
 ---
