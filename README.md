@@ -27,15 +27,15 @@ Busco uma **oportunidade de trainee ou desenvolvedor júnior** em desenvolviment
 | **Ferramentas** | Git, GitHub, VS Code, uv |
 
 ### O que eu faço
-* **APIs:** modelo entidades relacionais, implemento CRUD com validação via Pydantic, exclusão em cascata e paginação.
-* **Automações:** escrevo scripts em Python que automatizam tarefas, processam dados e integram serviços via API.
-* **Banco de dados:** escrevo consultas SQL, configuro permissões com Row Level Security e executo migrações e rotinas de backup e restauração.
-* **Qualidade:** valido entradas, trato exceções e documento o código para que outra pessoa consiga rodá-lo.
+* **APIs REST:** FastAPI + SQLModel/MySQL, schemas Pydantic, status codes HTTP, paginação `offset`/`limit` e cascade delete.
+* **Automações:** scripts Python para consumo de APIs, ETL em JSON e rotinas sem intervenção manual, com tratamento de exceções.
+* **Banco de dados:** modelagem com FKs, SQL (JOINs, agregações), RLS no PostgreSQL/Supabase, migrações e backup/restore.
+* **Frontend:** Next.js + React em TypeScript, integrado a gateways de pagamento via REST.
+* **Qualidade:** validação centralizada, ISO 8601, dependências com uv e versionamento com Git.
 
 ### Foco atual
-* **Backend:** testes automatizados com pytest, autenticação JWT e Docker
-* **Automação:** scripts de rotina e integrações entre serviços com Python
-* **Segurança:** boas práticas de segurança em APIs (OWASP API Top 10)
+* **Segurança em APIs REST com FastAPI:** autenticação JWT (OAuth2 + hashing de senhas), autorização por escopo, validação estrita de entrada com Pydantic, rate limiting, CORS e mitigação das falhas do OWASP API Top 10 (BOLA, mass assignment, exposição excessiva de dados).
+* **Testes e entrega:** testes automatizados com pytest e containerização com Docker
 
 ---
 
