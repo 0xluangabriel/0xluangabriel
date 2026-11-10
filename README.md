@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./gif.gif" alt="Pixel Art Header" width="100%">
-</p>
-
-<p align="center">
   <img align="left" src="https://komarev.com/ghpvc/?username=0xluangabriel&label=Perfil%20visto&color=1E6FEB&style=flat-square&abbreviated=true">
   Estudante de ADS de Minas Gerais | Backend, automações com Python e cibersegurança  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
 </p>
