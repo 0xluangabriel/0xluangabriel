@@ -4,7 +4,9 @@
 
 **Desenvolvedor back-end júnior · Python, FastAPI e segurança de APIs**
 
-Contagem, Minas Gerais · **Português** | [English](README.en.md) · [LinkedIn](https://linkedin.com/in/luan-gabriel-silva) · [E-mail](mailto:luan.pessoalx@gmail.com)
+Idioma: **Português** | [English](README.en.md)
+
+Minas Gerais, Brasil · [LinkedIn](https://linkedin.com/in/luan-gabriel-silva) · [E-mail](mailto:luan.pessoalx@gmail.com)
 
 ---
 
