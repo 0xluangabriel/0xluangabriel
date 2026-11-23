@@ -1,16 +1,10 @@
-<div align="center">
-
 # Luan Gabriel
 
 ![Perfil visto](https://komarev.com/ghpvc/?username=0xluangabriel&label=Perfil%20visto&color=0e75b6&style=flat)
 
 **Desenvolvedor back-end júnior · Python, FastAPI e segurança de APIs**
 
-Contagem, Minas Gerais · **Português** | [English](README.en.md)
-
-[LinkedIn](https://linkedin.com/in/luan-gabriel-silva) · [E-mail](mailto:luan.pessoalx@gmail.com)
-
-</div>
+Contagem, Minas Gerais · **Português** | [English](README.en.md) · [LinkedIn](https://linkedin.com/in/luan-gabriel-silva) · [E-mail](mailto:luan.pessoalx@gmail.com)
 
 ---
 
