@@ -1,43 +1,56 @@
-<p align="center">
-  <img align="left" src="https://komarev.com/ghpvc/?username=0xluangabriel&label=Perfil%20visto&color=1E6FEB&style=flat-square&abbreviated=true">
-  Estudante de ADS de Minas Gerais | Backend, automações com Python e cibersegurança  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
-</p>
+<div align="center">
+
+# Luan Gabriel
+
+![Perfil visto](https://komarev.com/ghpvc/?username=0xluangabriel&label=Perfil%20visto&color=0e75b6&style=flat)
+
+**Desenvolvedor back-end júnior · Python, FastAPI e segurança de APIs**
+
+Contagem, Minas Gerais · **Português** | [English](README.en.md)
+
+[LinkedIn](https://linkedin.com/in/luan-gabriel-silva) · [E-mail](mailto:luan.pessoalx@gmail.com)
+
+</div>
 
 ---
 
-### Sobre mim
-Graduando em **Análise e Desenvolvimento de Sistemas** (conclusão em dez/2026) e Técnico em TI pelo SENAC. Desenvolvo **APIs REST com Python e FastAPI**, crio **scripts e automações** para eliminar tarefas repetitivas já administrei um banco **PostgreSQL em produção com mais de 100 mil usuários**.
+## Sobre mim
 
-Busco uma **oportunidade de trainee ou desenvolvedor júnior** em desenvolvimento back-end ou automações.
+Estou no último semestre de **Análise e Desenvolvimento de Sistemas** (conclusão em dezembro de 2026) e sou **Técnico em TI pelo SENAC**. Desenvolvo **APIs REST com Python e FastAPI**, com foco em segurança e testes automatizados, e já administrei um banco **PostgreSQL em produção com mais de 100 mil usuários**.
 
-### Tech Stack
+Busco uma vaga de **trainee ou desenvolvedor júnior** em back-end ou automação.
 
-| Categoria | Ferramentas e linguagens |
-| :--- | :--- |
-| **Linguagens** | Python, SQL, TypeScript, JavaScript, PHP, HTML, CSS |
-| **Backend** | FastAPI, SQLModel, Pydantic, APIs REST |
-| **Automação** | Scripts em Python, manipulação de arquivos e JSON, integração com APIs |
-| **Frontend** | Next.js, React |
-| **Bancos de dados** | PostgreSQL, MySQL, MariaDB, SQLite |
-| **Sistemas** | Linux, Windows, Windows Server |
-| **Ferramentas** | Git, GitHub, VS Code, uv |
+## Projetos: a série VetSys
 
-### O que eu faço
-* **APIs REST:** FastAPI + SQLModel/MySQL, schemas Pydantic, status codes HTTP, paginação `offset`/`limit` e cascade delete.
-* **Automações:** scripts Python para consumo de APIs, ETL em JSON e rotinas sem intervenção manual, com tratamento de exceções.
-* **Banco de dados:** modelagem com FKs, SQL (JOINs, agregações), RLS no PostgreSQL/Supabase, migrações e backup/restore.
-* **Frontend:** Next.js + React em TypeScript, integrado a gateways de pagamento via REST.
-* **Qualidade:** validação centralizada, ISO 8601, dependências com uv e versionamento com Git.
+O mesmo sistema de clínica veterinária, construído três vezes. Cada versão resolve o que a anterior não resolvia.
 
-### Foco atual
-* **Segurança em APIs REST com FastAPI:** autenticação JWT (OAuth2 + hashing de senhas), autorização por escopo, validação estrita de entrada com Pydantic, rate limiting, CORS e mitigação das falhas do OWASP API Top 10 (BOLA, mass assignment, exposição excessiva de dados).
-* **Testes e entrega:** testes automatizados com pytest e containerização com Docker
+| | Projeto | O que mostra |
+| --- | --- | --- |
+| 1 | [**vetsys-cli**](https://github.com/0xluangabriel/vetsys-cli) | Python puro: modelagem de dados relacionais com listas e JSON, validação de entrada e exclusão em cascata |
+| 2 | [**vetsys-api**](https://github.com/0xluangabriel/vetsys-api) | API REST com FastAPI e MySQL: JWT, controle de acesso por perfil, proteção contra IDOR, 32 testes com pytest, CI no GitHub Actions, Docker e migrações com Alembic |
+| 3 | [**vetsys-assistant**](https://github.com/0xluangabriel/vetsys-assistant) | Agente de IA com RAG e ferramentas que consultam a vetsys-api com o token do usuário, avaliado com 21 casos automáticos |
 
----
+## Tecnologias
 
-### Contato
-* **LinkedIn:** [luan-gabriel-silva](https://www.linkedin.com/in/luan-gabriel-silva)
-* **E-mail:** luan.pessoalx@gmail.com
+| Área | Ferramentas |
+| --- | --- |
+| Linguagens | Python, SQL, PHP, HTML, CSS |
+| Back-end | FastAPI, SQLModel, Pydantic, APIs REST |
+| Bancos de dados | PostgreSQL, MySQL, MariaDB, SQLite |
+| Testes e entrega | pytest, Docker, Docker Compose, GitHub Actions, Alembic |
+| IA | LangChain, LangGraph, RAG, Chroma, Google Gemini |
+| Sistemas | Linux, Windows, Windows Server |
+| Ferramentas | Git, GitHub, uv, VS Code |
+
+## Experiência com banco de dados em produção
+
+Administrei um banco **PostgreSQL com mais de 100 mil usuários**, no Supabase: modelagem com chaves estrangeiras, consultas com JOINs e agregações, **Row Level Security (RLS)**, migrações e rotinas de backup e restauração.
+
+## Estudando agora
+
+- **Concorrência e transações:** impedir que duas requisições simultâneas reservem o mesmo horário
+- **Qualidade de código:** Ruff e mypy no pipeline de integração contínua
+- **Segurança em sistemas com IA:** prompt injection e controle de acesso em agentes
 
 ---
 
